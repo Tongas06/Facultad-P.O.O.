@@ -1,0 +1,1 @@
+juan.perez@gmail.com, maria.rodriguez@hotmail.com, test@example.com, usuario@yahoo.com, direccion-invalida@@mail.com, pedro@outlook.com, ana_lopez@edu.org, contacto@empresa.com, email_sin_arroba.com, info@negocio.net
